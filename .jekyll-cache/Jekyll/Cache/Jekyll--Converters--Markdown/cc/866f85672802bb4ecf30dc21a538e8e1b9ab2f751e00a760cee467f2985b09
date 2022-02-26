@@ -1,16 +1,15 @@
-I"�<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+I"v<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 
 <p><a href="./another-page.html">Link to another page</a>.
-<a href="_posts/1234.md">Link to another page222 in another foler</a>.
-<a href="_posts/3456.md">Link to another 333333 in another foler</a>.</p>
+<a href="./3456.html">Link to another 333333 in another foler</a>.</p>
 
 <p>There should be whitespace between paragraphs.</p>
 
 <p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
 
-<h1 id="header-1">Header 1</h1>
+<h1 id="waiga의-개발로그에-오신-걸-환영합니다">waiga의 개발로그에 오신 걸 환영합니다</h1>
 
-<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+<p>Welcome! This is Development story of waiga. If you want to contact, Please send me a email address: hyang9387@gmail.com. Thanks☀️</p>
 
 <h2 id="header-2">Header 2</h2>
 
