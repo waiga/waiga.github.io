@@ -1,6 +1,7 @@
-I"<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+I"Z<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 
-<p><a href="./another-page.html">Link to another page</a>.</p>
+<p><a href="./another-page.html">Link to another page</a>.
+<a href="_posts/another-page.md">Link to another page in another foler</a>.</p>
 
 <p>There should be whitespace between paragraphs.</p>
 
